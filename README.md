@@ -11,7 +11,7 @@
     
 
 
-> 注: 知识点由网上收集或[CodeEggDailyInterview]收集而来
+> 注: 部分知识点来源于[CodeEggDailyInterview]
     
 [Android 基础]:https://github.com/yangsanning/Keep/tree/master/Android%20%E5%9F%BA%E7%A1%80
 
