@@ -6,6 +6,7 @@
     - [Android 一阶]
     - [Android 新]
     - [Android 自定义View]
+        + [理论篇]
 2. Git
     - [Git]
 3. Java
@@ -20,6 +21,7 @@
 [Android 一阶]:https://github.com/yangsanning/Keep/tree/master/Android%20%E4%B8%80%E9%98%B6
 [Android 新]:https://github.com/yangsanning/Keep/tree/master/Android%20%E6%96%B0
 [Android 自定义View]:https://github.com/yangsanning/Keep/tree/master/Android%20%E8%87%AA%E5%AE%9A%E4%B9%89View
+[理论篇]:https://github.com/yangsanning/Keep/tree/master/Android%20%E8%87%AA%E5%AE%9A%E4%B9%89View/%E7%90%86%E8%AE%BA%E7%AF%87
 
 [Git]:https://github.com/yangsanning/Keep/tree/master/Git
 
