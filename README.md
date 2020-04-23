@@ -11,6 +11,7 @@
     - [Git]
 3. Java
     - [Java 基础]
+    - [Java 一阶]
 4. ADB
     - [ADB]
 
@@ -26,6 +27,7 @@
 [Git]:https://github.com/yangsanning/Keep/tree/master/Git
 
 [Java 基础]:https://github.com/yangsanning/Keep/tree/master/Java%20%E5%9F%BA%E7%A1%80
+[Java 一阶]:https://github.com/yangsanning/Keep/tree/master/Java%20%E4%B8%80%E9%98%B6
 
 [ADB]:https://github.com/yangsanning/Keep/tree/master/ADB
 
