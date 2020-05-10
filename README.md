@@ -12,7 +12,11 @@
 3. Java
     - [Java 基础]
     - [Java 一阶]
-4. ADB
+4. 设计模式
+    - [设计模式]
+5. 算法
+    - [算法]
+6. ADB
     - [ADB]
 
 
@@ -28,6 +32,10 @@
 
 [Java 基础]:https://github.com/yangsanning/Keep/tree/master/Java%20%E5%9F%BA%E7%A1%80
 [Java 一阶]:https://github.com/yangsanning/Keep/tree/master/Java%20%E4%B8%80%E9%98%B6
+
+[设计模式]:https://github.com/yangsanning/Keep/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F
+
+[算法]:https://github.com/yangsanning/Keep/tree/master/%E7%AE%97%E6%B3%95
 
 [ADB]:https://github.com/yangsanning/Keep/tree/master/ADB
 
