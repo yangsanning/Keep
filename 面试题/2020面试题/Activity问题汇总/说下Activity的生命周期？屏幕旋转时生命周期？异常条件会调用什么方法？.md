@@ -14,7 +14,7 @@
 #### 屏幕旋转时生命周期？
 > 屏幕旋转时候，如果不做任何处理，activity会经过销毁到重建的过程, 一般这种效果都不是想要的(比如视频播放器就经常会涉及屏幕旋转场景)
 
-###### 第一种情况：当前的Activity不销毁【设置Activity的android:configChanges="orientation|keyboardHidden|screenSize"时，切屏不会重新调用各个生命周期，只会执行onConfigurationChanged方法】
+##### 第一种情况：当前的Activity不销毁【设置Activity的android:configChanges="orientation|keyboardHidden|screenSize"时，切屏不会重新调用各个生命周期，只会执行onConfigurationChanged方法】
 ```
 <activity
     android:name=".activity.VideoDetailActivity"
