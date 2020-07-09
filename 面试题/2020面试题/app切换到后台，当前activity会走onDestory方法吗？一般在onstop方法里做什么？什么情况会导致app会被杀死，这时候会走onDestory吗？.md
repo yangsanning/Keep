@@ -1,0 +1,16 @@
+#### app切换到后台，当前activity会走onDestory方法吗？
+> 不会走onDestory方法，会先后走onPause和onStop方法。
+
+#### 一般在onstop方法里做什么？
+> 写轮播图的时候，会在onstop方法里写上暂停轮播图无限轮播，在onStart方法中会开启自动无限轮播。
+> 写视频播放器的时候，当app切换到后台，则需要停止视频播放，也是可以在onstop中处理的。
+
+#### 什么情况会导致app会被杀死，这时候会走onDestory吗？
+> 系统资源不足，会导致app意外被杀死。</br>
+应用只有在进程存活的情况下才会按照正常的生命周期进行执行，如果进程突然被kill掉，相当于System.exit(0)，进程被杀死，根本不会走（activity，fragment）生命周期。
+只有在进程不被kill掉，正常情况下才会执行ondestory（）方法。
+
+#### activity被回收如何恢复
+> 当系统内存不足时, activity会被回收，我们其实可以覆写onSaveInstanceState()方法。</br>
+onSaveInstanceState()方法接受一个Bundle类型的参数, 开发者可以将状态数据存储到这个Bundle对象中,这样即使activity被系统摧毁,当用户重新启动这个activity而调用它的onCreate()方法时,
+上述的Bundle对象会作为实参传递给onCreate()方法,开发者可以从Bundle对象中取出保存的数据, 然后利用这些数据将activity恢复到被摧毁之前的状态。
