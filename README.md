@@ -18,7 +18,8 @@
 - [Android 新](https://github.com/yangsanning/Keep/tree/master/Android%20%E6%96%B0)
 - [Android 自定义View](https://github.com/yangsanning/Keep/tree/master/Android%20%E8%87%AA%E5%AE%9A%E4%B9%89View)
 
-## [Git](https://github.com/yangsanning/Keep/tree/master/Git)
+## Git
+- [Git](https://github.com/yangsanning/Keep/tree/master/Git)
 
 ## Java
 - [Java 基础](https://github.com/yangsanning/Keep/tree/master/Java%20%E5%9F%BA%E7%A1%80)
@@ -28,6 +29,8 @@
 - [文档](https://github.com/yangsanning/Keep/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [Demo](https://github.com/yangsanning/DesignPatternsDemo)
 
-## [算法](https://github.com/yangsanning/Keep/tree/master/%E7%AE%97%E6%B3%95)
+## 算法
+- [算法](https://github.com/yangsanning/Keep/tree/master/%E7%AE%97%E6%B3%95)
 
-## [ADB](https://github.com/yangsanning/Keep/tree/master/ADB)
+## ADB
+- [ADB](https://github.com/yangsanning/Keep/tree/master/ADB)
