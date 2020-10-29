@@ -30,7 +30,13 @@
 - [Demo](https://github.com/yangsanning/DesignPatternsDemo)
 
 ## 算法
-- [算法](https://github.com/yangsanning/Keep/tree/master/%E7%AE%97%E6%B3%95)
+- [冒泡排序](https://www.jianshu.com/p/648d87dc4cfc)
+- [选择排序](https://www.jianshu.com/p/5223afa8796c)
+- [插入排序](https://www.jianshu.com/p/d2cf77f78b3e)
+- [归并排序](https://www.jianshu.com/p/33cffa1ce613)
+- [快速排序](https://www.jianshu.com/p/a68f72278f8f)
+- [堆排序](https://www.jianshu.com/p/3e1d4ed98565)
+- [桶排序](https://www.jianshu.com/p/63db6903c32a)
 
 ## ADB
 - [ADB](https://github.com/yangsanning/Keep/tree/master/ADB)
