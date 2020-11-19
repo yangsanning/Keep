@@ -8,6 +8,7 @@
 
 ## [面试题](https://github.com/yangsanning/Keep/tree/master/面试题)
 - [面试会问的那些令人讨厌原理](https://github.com/yangsanning/Keep/tree/master/面试题/AAA面试会问的那些令人讨厌原理)
+- [面试不得不会的View知识](https://github.com/yangsanning/Keep/tree/master/面试题/AAA面试不得不会的View知识)
 - [Activity问题汇总](https://github.com/yangsanning/Keep/tree/master/面试题/Activity问题汇总)
 - [Fragment问题汇总](https://github.com/yangsanning/Keep/tree/master/面试题/Fragment问题汇总)
 - [Service问题汇总](https://github.com/yangsanning/Keep/tree/master/面试题/Service问题汇总)
